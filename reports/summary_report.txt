@@ -1,0 +1,18 @@
+Student Performance Analysis Report
+==================================================
+Key Findings:
+1. There is a positive correlation between study time and grades.
+2. Family support significantly influences student performance.
+3. Students who participate in extracurricular activities tend to have better grades.
+
+Recommendations:
+1. Encourage students to allocate more study time to improve grades.
+2. Implement programs to enhance family engagement in students' education.
+3. Provide resources for students to balance extracurricular activities with academic responsibilities.
+
+Visualizations:
+1. Scatter plot of Study Time vs. Grades saved as 'study_time_vs_grades.png'.
+2. Pie chart of Family Support Levels saved as 'family_support_levels.png'.
+3. Histogram of Grades Distribution saved as 'grades_distribution.png'.
+
+End of Report
